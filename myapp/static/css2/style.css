@@ -1,0 +1,39 @@
+body {
+    background-image: url("");
+}
+
+ul.errorlist {
+    padding-left: 0;
+}
+
+ul.errorlist > li {
+    list-style: none;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Satisfy', cursive;
+}
+
+.glyphicon-star {
+    color: #CCCCCC;
+    font-size: 16px;
+}
+
+.glyphicon-star.active {
+    color: #FDB230;
+}
+
+#formincenter{
+     padding-left : 600px;
+     background-color : white;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     width: 200px;
+     height : 300px;
+}
