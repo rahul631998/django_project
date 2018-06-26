@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d639ae8a-7138-478f-85df-2e804cf62758" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/myapp/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/model/classify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/model/labelbin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/model/new_model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/model/pyimagesearch/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/model/pyimagesearch/smallervggnet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/15295261583471804634753.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/15295262939861131505644.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/15295263075361896821430.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/15295263075361896821430_5rh1CVt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/15295263075361896821430_b1Jcu0L.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2018-06-20_05-33-06.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2018-06-20_05-33-06_74fVZVE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2018-06-20_05-33-06_C1GocsB.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2018-06-20_05-33-06_VKw8ap9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2018-06-20_05-33-06_ovBSvfg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2018-06-20_05-33-06_t5x3FkE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/Screenshot_from_2018-06-20_05-33-06_vfh7Jhp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/registration_form.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +20,8 @@
       <file leaf-file-name="classify.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/model/classify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="682">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -54,11 +32,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -132,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="30" />
     <option name="width" value="1370" />
     <option name="height" value="740" />
@@ -225,7 +200,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32905984" />
       <window_info anchor="bottom" id="Python Console" order="0" weight="0.32905984" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.22079772" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2877493" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="1" sideWeight="0.5016949" side_tool="true" weight="0.18816067" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -478,25 +453,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/model/classify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/model/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/api.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -508,13 +466,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/model/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
