@@ -39,10 +39,16 @@ ul.errorlist > li {
 }
 .outside
 {
-    background-color : blue;
+    background-color : #EEE8AA;
+    padding : 30px;
+    margin : 30px;
 }
 #inside
 {
-    background-color : red;
+    background-color : #A52A2A;
     color : pink;
+    width : 10px;
+    height :10px;
+    padding : 30px;
+    margin : 30px;
 }

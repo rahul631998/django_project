@@ -2,20 +2,145 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d639ae8a-7138-478f-85df-2e804cf62758" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/myapp/templates/result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/ear4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/headphone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/headphone_0Y5uv4l.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/headphone_JBakstw.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/headphone_PwviVtv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/mobile11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/mobile11_hlg58lb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/mobile5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/mobile8.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/bootstrap-datepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/flexslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/icomoon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css2/ranasir.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/css2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/static/css2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/bootstrap/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/bootstrap/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/bootstrap/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/bootstrap/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/bootstrap/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/icomoon/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/icomoon/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/icomoon/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/icomoon/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/themify-icons/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/themify-icons/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/themify-icons/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/fonts/themify-icons/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/img_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/img_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/img_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/img_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/img_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/img_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/img_bg_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/img_bg_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/img_bg_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/images/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/img/Screenshot_from_2018-06-20_05-33-06_d6MqziL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/bootstrap-datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/google_map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/jquery.countTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/jquery.easing.1.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/jquery.easypiechart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/jquery.stellar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/magnific-popup-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/modernizr-2.6.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/_bootstrap-compass.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/_bootstrap-mincer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/_bootstrap-sprockets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_button-groups.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_component-animations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_glyphicons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_input-groups.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_navs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_pager.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_panels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_popovers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_progress-bars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_responsive-embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_responsive-utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_scaffolding.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_thumbnails.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/_wells.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_center-block.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_hide-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_nav-vertical-align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_opacity.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_panels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_progress-bar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_reset-filter.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_responsive-visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_tab-focus.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_text-overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/bootstrap/mixins/_vendor-prefixes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/static/sass/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/destination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/img_1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/index4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/pricing.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +158,8 @@
       <file leaf-file-name="classify.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/model/classify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="264">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -45,8 +170,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="264">
+              <caret line="66" column="57" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="57" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -54,11 +179,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="form-template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/form-template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="132">
+              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -66,23 +200,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="66">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/templates/index.html">
+      <file leaf-file-name="result.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/result.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
-              <folding>
-                <element signature="e#217#224#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-208">
+              <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -92,8 +232,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -119,14 +259,17 @@
         <option value="$PROJECT_DIR$/myapp/templates/form-template.html" />
         <option value="$PROJECT_DIR$/mysite/urls.py" />
         <option value="$PROJECT_DIR$/myapp/templates/index2.html" />
-        <option value="$PROJECT_DIR$/myapp/static/css2/style.css" />
         <option value="$PROJECT_DIR$/myapp/urls.py" />
         <option value="$PROJECT_DIR$/myapp/templates/index4.html" />
         <option value="$PROJECT_DIR$/myapp/model/classify.py" />
-        <option value="$PROJECT_DIR$/myapp/api.py" />
+        <option value="$PROJECT_DIR$/myapp/templates/contact.html" />
         <option value="$PROJECT_DIR$/myapp/templates/index.html" />
-        <option value="$PROJECT_DIR$/myapp/views.py" />
         <option value="$PROJECT_DIR$/myapp/models.py" />
+        <option value="$PROJECT_DIR$/myapp/static/css2/style.css" />
+        <option value="$PROJECT_DIR$/myapp/api.py" />
+        <option value="$PROJECT_DIR$/myapp/views.py" />
+        <option value="$PROJECT_DIR$/myapp/templates/result.html" />
+        <option value="$PROJECT_DIR$/myapp/templates/style.css" />
       </list>
     </option>
   </component>
@@ -147,6 +290,17 @@
               <item name="django_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="django_project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="django_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_project" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django_project" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -160,17 +314,18 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\django_project\django_project\myapp\model" />
-      <recent name="$PROJECT_DIR$/myapp/templates" />
-      <recent name="$PROJECT_DIR$/myapp/static" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/myapp" />
       <recent name="$PROJECT_DIR$/myapp/static/css2" />
       <recent name="$PROJECT_DIR$/myapp/static/img" />
       <recent name="$PROJECT_DIR$/myapp/static" />
       <recent name="$PROJECT_DIR$/myapp/templates/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\django_project\django_project\myapp\templates" />
+      <recent name="D:\django_project\django_project\myapp\model" />
+      <recent name="$PROJECT_DIR$/myapp/templates" />
+      <recent name="$PROJECT_DIR$/myapp/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -209,8 +364,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49830508" visible="true" weight="0.118308" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49830508" visible="true" weight="0.1665565" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32889965" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="6" />
@@ -236,34 +392,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myapp/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/templates/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3294">
-          <caret line="122" column="75" lean-forward="true" selection-start-line="122" selection-start-column="75" selection-end-line="122" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -379,13 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/static/css2/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -415,13 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/templates/form-template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -466,30 +580,63 @@
     <entry file="file://$PROJECT_DIR$/myapp/model/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/myapp/templates/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
-          <folding>
-            <element signature="e#217#224#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-618">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/form-template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-933" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/model/classify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="264">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="83" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="83" />
+          <folding>
+            <element signature="e#217#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/static/css2/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="132">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -498,18 +645,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="264">
+          <caret line="66" column="57" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="57" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/models.py">
+    <entry file="file://$PROJECT_DIR$/myapp/templates/result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="-208">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
         </state>
       </provider>
     </entry>

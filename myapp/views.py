@@ -59,14 +59,15 @@ def index(request):
         new_data.save()
         result = cs.prediction("myapp/model/new_model", "myapp/model/labelbin", "D:/django_project/django_project/media/"+str(image_predict))
         min_range = new_data.min_range
-        maax_range = new_data.max_range
+        max_range = new_data.max_range
 
         print(result)
-        api.search(result)
+        print(min_range)
+        print(max_range)
+        api.search(result, str(min_range), str(max_range))
         new_data.delete()
         os.system("RD /S /Q D:\django_project\django_project\media")
     context = {'form': form}
     return render(request, 'index.html', context)
-
 
 
