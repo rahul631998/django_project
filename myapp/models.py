@@ -2,6 +2,10 @@ from django.db import models
 # Create your models here.
 
 class data(models.Model):
-    file = models.ImageField(default=None, null=True, blank=True)
-    name = models.CharField(max_length=250, null =True)
-    email = models.CharField(max_length=250, null= True)
+
+    upload_your_image = models.ImageField(default=None, null=True, blank=True)
+    min_range = models.IntegerField(max_length=5, null =True)
+    max_range = models.IntegerField(max_length=5, null= True)
+
+
+

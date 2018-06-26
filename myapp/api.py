@@ -20,6 +20,6 @@ def search(image_query):
             print(str(n) , ". " , item['product_title'], item['product_lowest_price'], "\n")
         else:
             print("Kuch bhi Khojoge!!!")
-        if n == 5:
+        if n==5:
             break
         n = n + 1
