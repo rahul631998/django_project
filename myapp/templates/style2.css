@@ -1,0 +1,76 @@
+.outside
+{
+    background-color : white ;
+    padding : 10px;
+    margin : 10px;
+    border-radius : 10px;
+    display : inline-block;
+    padding-top : 10px;
+    border-style: solid;
+    border-color : black;
+    width : 704px;
+}
+.inside
+{
+    background-color : 	#EAEAEA;
+    color : black;
+    display : inline-block;
+    border-radius : 10px;
+    position : relative;
+    font-size : 25px;
+}
+#right
+{
+    margin-left : 30px;
+    margin-top : 3px;
+    height : 250px;
+    width : 470px;
+    float : right;
+    padding : 10px;
+}
+#left
+{
+    width : 180px;
+    height : 270px;
+}
+img
+{
+    width : 180px;
+    height : 270px;
+    border-color : black;
+    border-radius : 10px;
+    border-width : 2px;
+    border-style: solid;
+}
+#main
+{
+    display : inline-block;
+}
+
+h1
+{
+    margin-left : 10px;
+    margin-bottom : 25px;
+    margin-top : 15px;
+    font-family : verdana;
+}
+#updown
+{
+    display : block;
+    float : right;
+    background-color : 	red;
+
+}
+button
+{
+    position: absolute;
+    right:    190px;
+    bottom:   10px;
+    width : 120px;
+    height : 50px;
+    font-size : 20px;
+    color : white;
+    background-color : #20cc48;
+
+
+}

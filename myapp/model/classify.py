@@ -1,12 +1,15 @@
-from keras.preprocessing.image import img_to_array
-from keras.models import load_model
-import numpy as np
-import argparse
-import imutils
-import pickle
-import cv2
-import os
+
 def prediction (model, labelbin, image):
+    from keras.preprocessing.image import img_to_array
+    from keras.models import load_model
+    import numpy as np
+    import argparse
+    import imutils
+    import pickle
+    import cv2
+    import os
+
+
     args = [model, labelbin, image]
     # load the image
     image = cv2.imread(args[2])
@@ -28,4 +31,5 @@ def prediction (model, labelbin, image):
     proba = model.predict(image)[0]
     idx = np.argmax(proba)
     label = lb.classes_[idx]
+
     return label
