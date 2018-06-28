@@ -31,5 +31,9 @@ def prediction (model, labelbin, image):
     proba = model.predict(image)[0]
     idx = np.argmax(proba)
     label = lb.classes_[idx]
+    if label == "phone":
+        return "mobile"
+    if label == "speaker":
+        return "bluetooth speaker"
 
     return label

@@ -57,3 +57,10 @@ def search(image_query, min_range, max_range):
             break
         n = n + 1
     return list
+list = search("mobile", "50000", "100000")
+
+for x in range(len(list)):
+    for y in range(len(list[x])):
+        print(list[x][y])
+        
+print(list[1][2])
