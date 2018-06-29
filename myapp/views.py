@@ -12,7 +12,7 @@ def index(request):
     form = data(request.POST or None, request.FILES)
     if form.is_valid():
         new_data = form.save(commit=False)
-        image_predict = new_data.upload_your_image
+        image_predict = new_data.upload_image
         print(str(image_predict))
         new_data.save()
         global result

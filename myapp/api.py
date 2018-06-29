@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jun 28 22:51:09 2018
-
 @author: Rahul Chaudhary
 """
 
@@ -28,7 +27,7 @@ def search(image_query, min_range, max_range):
     json_obj = urllib.request.urlopen(url)
     data = json.load(json_obj)
     n = 0
-    list = [[]]*5
+    list = [[]]*8
     for item in data['data']:
         if item['can_compare'] == True:
             list[n] = [item['product_title'],item['product_image'], item['product_lowest_price']]
@@ -38,7 +37,7 @@ def search(image_query, min_range, max_range):
             newjson_obj = urllib.request.urlopen(urlforlink)
             newdata = json.load(newjson_obj)
             i = 0
-            for newitem in newdata["data"]["stores"]:
+            for newitem in newdata['data']['stores']:
                 store = ["amazon", "flipkart", "snapdeal", "ebay", "paytm", "croma", "yebhi", "indiatimes",
                          "homeshop18", "naaptol", "infibeam", "tatacliq", "shopclues"]
                 if type(newitem[store[i]]) is dict:
@@ -53,7 +52,7 @@ def search(image_query, min_range, max_range):
         else:
             print("Kuch bhi Khojoge!!!")
             break
-        if n == 4:
+        if n == 7:
             break
         n = n + 1
     return list

@@ -9,13 +9,26 @@
 	<title>khojo</title>
     {% load staticfiles %}
     <link rel="stylesheet" type="text/css" href="{% static 'css2/style.css' %}" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+    <style>
+        #main
+        {
+            width : 800px;
+            height : 450px;
+            border-style: solid;
+            border-color : black;
+            border-radius : 10px;
+            background-color : white;
+            margin : 0 auto;
+        }
+    </style>
 </head>
 <body>
 <h1 ><center><font color="blue" face = "verdana" size = 80px  ><b>KhOjO</b></font> </center></h1>
-        <div class="col-sm-12 col-md-7" align="center" id="formincenter">
-        	<div class="panel apnel-default">
-                <div class="panel-body">
-                    <form class="form-horizontal" action = "" method="post" enctype="multipart/form-data" size="35">
+        	<div class="panel apnel-default" align="center" id="main">
+                    <form class="form-horizontal" action = "" method="post" enctype="multipart/form-data">
 	                    {% csrf_token %}
 
 	                    {% include 'form-template.html' %}
@@ -24,8 +37,6 @@
                    </form>
                     <br>
                     <a href="result"><button>Results</button></a>
-               </div>
             </div>
-        </div>
 </body>
 </html>

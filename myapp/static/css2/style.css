@@ -27,18 +27,3 @@ ul.errorlist > li {
     color: #FDB230;
 }
 
-#formincenter{
-
-     background-color : red;
-     width: 1000px;
-     height : 1000px;
-}
-.outside
-{
-    background-color : blue;
-}
-#inside
-{
-    background-color : red;
-    color : pink;
-}

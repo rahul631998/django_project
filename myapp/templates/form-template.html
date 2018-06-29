@@ -1,7 +1,21 @@
+<style>
+	#main2
+	{
+		border-style: solid;
+		border-color : black;
+        border-radius : 10px;
+        background-color : white;
+        margin : 20px;
+        align : center;
+	}
+</style>
 {% for field in form %}
-	<div class="form-group">
-		<label class="control-label col-sm-2" ><div style="font-size : 20px; margin : 20px"><font color="black" > {{ field.label_tag }}</font></div></label>
-     	<div class= "col-sm-10" size="35" style="font-size : 20px; margin : 20px; width : 100px; height : 30px">{{ field }} </div>
-   	</div>
+	<div align="center" class="form-group" id="main2" >
+		<div style="font-size : 20px; margin : 20px">
+		<label class="control-label col-sm-2" ><font color="black" > {{ field.label_tag }}</font></label>
+     	<div class= "col-sm-10" size="35" style="font-size : 20px; margin : 20px; width : 100px; height : 30px;">{{ field }} </div>
+
+		</div>
+	</div>
 
 {% endfor %}
